@@ -1,5 +1,8 @@
-# FPGA-FIR-filter
-Implementation of a 35-taps FIR filter on a FPGA.
+<h5 align="center">Management and analysis of physical datasets (module A) project</h5>
+<h5 align="center">AY 2021/2022 University of Padua</h5>
+
+# **A 7-taps re-programmable Finite Impulse Response filter on FPGA**
+
 
 ***
 
