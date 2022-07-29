@@ -1,7 +1,7 @@
 <h5 align="center">Management and analysis of physical datasets (module A) project</h5>
 <h5 align="center">AY 2021/2022 University of Padua</h5>
 
-# **A 7-taps re-programmable Finite Impulse Response filter on FPGA**
+# **A 35-taps re-programmable Finite Impulse Response filter on FPGA**
 
 
 ***
